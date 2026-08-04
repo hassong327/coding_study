@@ -7,11 +7,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/hassong327/coding_study/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/hassong327/coding_study/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/hassong327/coding_study/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/hassong327/coding_study/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/hassong327/coding_study/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/hassong327/coding_study/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/hassong327/coding_study/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
