@@ -10,12 +10,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hassong327/coding_study/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/hassong327/coding_study/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/hassong327/coding_study/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/hassong327/coding_study/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/hassong327/coding_study/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hassong327/coding_study/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/hassong327/coding_study/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/hassong327/coding_study/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/hassong327/coding_study/tree/main/0013-roman-to-integer/) | Easy |
+| [0189-rotate-array](https://github.com/hassong327/coding_study/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
