@@ -9,6 +9,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0027-remove-element](https://github.com/hassong327/coding_study/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hassong327/coding_study/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/hassong327/coding_study/tree/main/0088-merge-sorted-array/) | Easy |
+| [0134-gas-station](https://github.com/hassong327/coding_study/tree/main/0134-gas-station/) | Medium |
 | [0169-majority-element](https://github.com/hassong327/coding_study/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/hassong327/coding_study/tree/main/0189-rotate-array/) | Medium |
 | [0274-h-index](https://github.com/hassong327/coding_study/tree/main/0274-h-index/) | Medium |
@@ -56,4 +57,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/hassong327/coding_study/tree/main/0274-h-index/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0134-gas-station](https://github.com/hassong327/coding_study/tree/main/0134-gas-station/) | Medium |
 <!---LeetCode Topics End-->
