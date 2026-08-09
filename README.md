@@ -12,6 +12,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0134-gas-station](https://github.com/hassong327/coding_study/tree/main/0134-gas-station/) | Medium |
 | [0169-majority-element](https://github.com/hassong327/coding_study/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/hassong327/coding_study/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/hassong327/coding_study/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/hassong327/coding_study/tree/main/0274-h-index/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -79,4 +80,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hassong327/coding_study/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/hassong327/coding_study/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
