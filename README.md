@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0027-remove-element](https://github.com/hassong327/coding_study/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/hassong327/coding_study/tree/main/0042-trapping-rain-water/) | Hard |
+| [0068-text-justification](https://github.com/hassong327/coding_study/tree/main/0068-text-justification/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hassong327/coding_study/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/hassong327/coding_study/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/hassong327/coding_study/tree/main/0134-gas-station/) | Medium |
@@ -44,6 +45,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0013-roman-to-integer](https://github.com/hassong327/coding_study/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hassong327/coding_study/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/hassong327/coding_study/tree/main/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/hassong327/coding_study/tree/main/0068-text-justification/) | Hard |
 | [0205-isomorphic-strings](https://github.com/hassong327/coding_study/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/hassong327/coding_study/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/hassong327/coding_study/tree/main/0383-ransom-note/) | Easy |
@@ -107,4 +109,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hassong327/coding_study/tree/main/0042-trapping-rain-water/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0068-text-justification](https://github.com/hassong327/coding_study/tree/main/0068-text-justification/) | Hard |
 <!---LeetCode Topics End-->
