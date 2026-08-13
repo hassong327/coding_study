@@ -31,6 +31,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0013-roman-to-integer](https://github.com/hassong327/coding_study/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/hassong327/coding_study/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/hassong327/coding_study/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/hassong327/coding_study/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/hassong327/coding_study/tree/main/0383-ransom-note/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hassong327/coding_study/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/hassong327/coding_study/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/hassong327/coding_study/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/hassong327/coding_study/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/hassong327/coding_study/tree/main/0383-ransom-note/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
