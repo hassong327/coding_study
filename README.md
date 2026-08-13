@@ -43,6 +43,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/hassong327/coding_study/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/hassong327/coding_study/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hassong327/coding_study/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/hassong327/coding_study/tree/main/0058-length-of-last-word/) | Easy |
