@@ -25,6 +25,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0042-trapping-rain-water](https://github.com/hassong327/coding_study/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hassong327/coding_study/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/hassong327/coding_study/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/hassong327/coding_study/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/hassong327/coding_study/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/hassong327/coding_study/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
@@ -48,6 +49,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hassong327/coding_study/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/hassong327/coding_study/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/hassong327/coding_study/tree/main/0068-text-justification/) | Hard |
+| [0125-valid-palindrome](https://github.com/hassong327/coding_study/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/hassong327/coding_study/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/hassong327/coding_study/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/hassong327/coding_study/tree/main/0290-word-pattern/) | Easy |
