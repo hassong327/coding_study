@@ -28,6 +28,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0125-valid-palindrome](https://github.com/hassong327/coding_study/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/hassong327/coding_study/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/hassong327/coding_study/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/hassong327/coding_study/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0205-isomorphic-strings](https://github.com/hassong327/coding_study/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/hassong327/coding_study/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/hassong327/coding_study/tree/main/0383-ransom-note/) | Easy |
+| [0392-is-subsequence](https://github.com/hassong327/coding_study/tree/main/0392-is-subsequence/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hassong327/coding_study/tree/main/0042-trapping-rain-water/) | Hard |
+| [0392-is-subsequence](https://github.com/hassong327/coding_study/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
