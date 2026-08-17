@@ -14,7 +14,8 @@ class Solution(object):
                 return
             if(board[r][c]=="X"):
                 return
-            board[r][c] = "X"
+            if((r, c) in tmp):
+                return
             tmp.add((r, c))
 
             dfs(r-1, c)
