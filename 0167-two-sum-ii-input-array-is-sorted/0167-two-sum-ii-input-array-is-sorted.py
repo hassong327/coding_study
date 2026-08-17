@@ -8,11 +8,11 @@ class Solution(object):
         start = 0
         end = len(numbers)-1
         while(start!=end):
-            
-            if numbers[start]+numbers[end] == target:
+            result = numbers[start]+numbers[end]
+            if result == target:
                 return [start+1, end+1]
             else:
-                if numbers[start]+numbers[end] > target:
+                if result > target:
                     end -= 1
                 else:
                     start+=1
