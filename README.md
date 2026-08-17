@@ -17,6 +17,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassong327/coding_study/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/hassong327/coding_study/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/hassong327/coding_study/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/hassong327/coding_study/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hassong327/coding_study/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/hassong327/coding_study/tree/main/0274-h-index/) | Medium |
@@ -137,4 +138,20 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hassong327/coding_study/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
