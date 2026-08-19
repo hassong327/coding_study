@@ -22,6 +22,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0209-minimum-size-subarray-sum](https://github.com/hassong327/coding_study/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hassong327/coding_study/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/hassong327/coding_study/tree/main/0274-h-index/) | Medium |
+| [0494-target-sum](https://github.com/hassong327/coding_study/tree/main/0494-target-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hassong327/coding_study/tree/main/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/hassong327/coding_study/tree/main/0392-is-subsequence/) | Easy |
+| [0494-target-sum](https://github.com/hassong327/coding_study/tree/main/0494-target-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +161,16 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/hassong327/coding_study/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/hassong327/coding_study/tree/main/0494-target-sum/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/hassong327/coding_study/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/hassong327/coding_study/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
