@@ -146,16 +146,19 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/hassong327/coding_study/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/hassong327/coding_study/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/hassong327/coding_study/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/hassong327/coding_study/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/hassong327/coding_study/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hassong327/coding_study/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/hassong327/coding_study/tree/main/0547-number-of-provinces/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +176,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/hassong327/coding_study/tree/main/0494-target-sum/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/hassong327/coding_study/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
