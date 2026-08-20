@@ -51,3 +51,26 @@ class Solution(object):
 
 
 
+answer = 0
+class Solution(object):
+
+    def findTargetSumWays(self, nums, target):
+        global answer
+        answer = 0
+        def dfs(idx, current_sum):
+            global answer
+            if idx == len(nums):
+                if current_sum == target:
+                    answer += 1
+                    return 
+                else:
+                    return 
+
+            dfs(idx + 1, current_sum + nums[idx])
+            dfs(idx + 1, current_sum - nums[idx])
+
+            return
+        dfs(0, 0)
+        return answer
+
+
