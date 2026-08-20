@@ -26,3 +26,28 @@ class Solution(object):
             return plus+minus
         
         return dfs(0, 0)
+
+
+
+
+
+
+
+class Solution(object):
+    def findTargetSumWays(self, nums, target):
+        def dfs(idx, current_sum):
+            if idx == len(nums):
+                if current_sum == target:
+                    return 1
+                else:
+                    return 0
+
+            plus = dfs(idx + 1, current_sum + nums[idx])
+            minus = dfs(idx + 1, current_sum - nums[idx])
+
+            return plus + minus
+
+        return dfs(0, 0)
+
+
+
