@@ -9,6 +9,8 @@ public class Main {
     static ArrayList<Integer>[] graph;
     static int[] visited;
 
+    static Deque<Integer> dq = new ArrayDeque<>();
+    
     static boolean answer = true;
 
     public static void main(String[] args) throws IOException {
@@ -20,6 +22,7 @@ public class Main {
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
 
+        
         graph = new ArrayList[N + 1];
         visited = new int[N + 1];
         
@@ -38,40 +41,38 @@ public class Main {
             graph[a].add(b);
             graph[b].add(a);
         }
-
-        // 연결되지 않은 그래프가 여러 개일 수도 있음
+        
         for (int i = 1; i <= N; i++) {
+
             if (visited[i] == 0) {
-
                 visited[i] = 1;
-                dfs(i);
+                dq.offerLast(i);
+                bfs();
+            }
 
-                if (!answer) {
-                    break;
-                }
+            if (!answer) {
+                break;
             }
         }
+
         
         if (answer) System.out.println(1);
         else System.out.println(0);
     }
 
-    static void dfs(int cur) {
-
-        for (int next : graph[cur]) {
-            if (visited[next] == 0) {
-                visited[next] = -visited[cur];
-
-                dfs(next);
-
-                if (!answer) {
+    static void bfs() {
+        while(!dq.isEmpty()) {
+            int cur = dq.pollFirst();
+            
+            for(int next : graph[cur]) {
+                if (visited[next] == 0) {
+                    visited[next] = -visited[cur];
+                    dq.offerLast(next);
+                }
+                else if (visited[next] == visited[cur]) {
+                    answer = false;
                     return;
                 }
-            }
-
-            else if (visited[next] == visited[cur]) {
-                answer = false;
-                return;
             }
         }
     }
