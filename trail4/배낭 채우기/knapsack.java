@@ -47,10 +47,8 @@ public class Main {
 
         int[] arr = new int[M+1];
         for(int i = 1; i < N+1; i++){
-            for(int j = M; j > 0; j--){
-                if(j >= gemArray[i].weight){
-                    arr[j] = Math.max(arr[j], arr[j-gemArray[i].weight] + gemArray[i].value);
-                }
+            for(int j = M; j >= gemArray[i].weight ; j--){
+                arr[j] = Math.max(arr[j], arr[j-gemArray[i].weight] + gemArray[i].value);
             }
         }
         System.out.println(arr[M]);
