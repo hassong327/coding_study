@@ -29,7 +29,7 @@ public class Main {
             int v = Integer.parseInt(st.nextToken());
             gemArray[i] = new Gem(w, v);
         }
-
+        /*
         int[][] arr = new int[N+1][M+1];
         for(int i = 1; i < N+1; i++){
             for(int j = 1; j < M+1; j++){
@@ -43,5 +43,17 @@ public class Main {
             //System.out.println(Arrays.toString(arr[i]));
         }
         System.out.println(arr[N][M]);
+        */
+
+        int[] arr = new int[M+1];
+        for(int i = 1; i < N+1; i++){
+            for(int j = M; j > 0; j--){
+                if(j >= gemArray[i].weight){
+                    arr[j] = Math.max(arr[j], arr[j-gemArray[i].weight] + gemArray[i].value);
+                }
+            }
+        }
+        System.out.println(arr[M]);
+
     }
 }
